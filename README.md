@@ -7,5 +7,5 @@ Functions:
 
 Important tables:
 - tb2 - for function in bokeh, for info_functions
-- edges - for function in ipycytoscape
+- edges_df - for function in ipycytoscape
 - diseases - for graph-maker functions
